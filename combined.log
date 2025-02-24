@@ -1,0 +1,163 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"Reservied is form / and points GET","timestamp":"2025-02-24T07:02:56.936Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Request / and [object Object]","timestamp":"2025-02-24T07:02:56.942Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Reservied is form /favicon.ico and points GET","timestamp":"2025-02-24T07:02:57.253Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Request /favicon.ico and [object Object]","timestamp":"2025-02-24T07:02:57.254Z"}
+[32minfo[39m: Reservied is form / and points GET {"service":"identify-service","timestamp":"2025-02-24T07:05:09.971Z"}
+[32minfo[39m: Request / and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:05:09.976Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:12:57.928Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:33:33.623Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:34:41.625Z"}
+[32minfo[39m: Reservied is form /api/auth/register and points POST {"service":"identify-service","timestamp":"2025-02-24T07:35:58.095Z"}
+[32minfo[39m: Request /api/auth/register and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:35:58.097Z"}
+[32minfo[39m: Reservied is form /api/auth/register and points POST {"service":"identify-service","timestamp":"2025-02-24T07:36:05.653Z"}
+[32minfo[39m: Request /api/auth/register and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:36:05.654Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:36:59.533Z"}
+[32minfo[39m: Reservied is form /api/auth/register and points POST {"service":"identify-service","timestamp":"2025-02-24T07:37:09.409Z"}
+[32minfo[39m: Request /api/auth/register and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:37:09.410Z"}
+[31merror[39m: internal server errorTypeError: Cannot read properties of undefined (reading '0') {"service":"identify-service","timestamp":"2025-02-24T07:37:09.421Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:38:50.284Z"}
+[32minfo[39m: Reservied is form /api/auth/register and points POST {"service":"identify-service","timestamp":"2025-02-24T07:38:53.067Z"}
+[32minfo[39m: Request /api/auth/register and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:38:53.068Z"}
+[32minfo[39m: Successfully registered a new user {"service":"identify-service","timestamp":"2025-02-24T07:38:56.757Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:39:23.934Z"}
+[32minfo[39m: Reservied is form /api/auth/register and points POST {"service":"identify-service","timestamp":"2025-02-24T07:39:36.049Z"}
+[32minfo[39m: Request /api/auth/register and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:39:36.050Z"}
+[32minfo[39m: Successfully registered a new user {"service":"identify-service","timestamp":"2025-02-24T07:39:39.338Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:41:02.056Z"}
+[32minfo[39m: Reservied is form /api/auth/register and points POST {"service":"identify-service","timestamp":"2025-02-24T07:41:12.108Z"}
+[32minfo[39m: Request /api/auth/register and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:41:12.108Z"}
+[32minfo[39m: Successfully registered a new user {"service":"identify-service","timestamp":"2025-02-24T07:41:15.428Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:41:37.971Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T07:42:04.549Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:42:04.550Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T07:42:04.677Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:42:18.121Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:42:22.228Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:42:32.067Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T07:42:34.103Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:42:34.104Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T07:42:34.198Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:42:57.473Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T07:42:58.722Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:42:58.723Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T07:42:58.817Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T07:43:04.945Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:43:04.946Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T07:43:05.024Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:43:14.617Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:43:14.617Z"}
+[33mwarn[39m: token is error {"service":"identify-service","timestamp":"2025-02-24T07:43:14.625Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:43:28.289Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:43:29.086Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:43:29.087Z"}
+[33mwarn[39m: token is error {"service":"identify-service","timestamp":"2025-02-24T07:43:29.097Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:43:36.647Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:43:37.914Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:43:37.914Z"}
+[33mwarn[39m: token is error {"service":"identify-service","timestamp":"2025-02-24T07:43:37.921Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:43:43.199Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:43:44.482Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:43:44.483Z"}
+[33mwarn[39m: token is error {"service":"identify-service","timestamp":"2025-02-24T07:43:44.499Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:43:49.193Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:43:56.177Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:43:57.212Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:43:57.213Z"}
+[33mwarn[39m: token is error {"service":"identify-service","timestamp":"2025-02-24T07:43:57.222Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:44:04.449Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:44:05.763Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:44:05.764Z"}
+[33mwarn[39m: token is error {"service":"identify-service","timestamp":"2025-02-24T07:44:05.771Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:44:22.333Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:44:22.951Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:44:22.952Z"}
+[33mwarn[39m: token is error {"service":"identify-service","timestamp":"2025-02-24T07:44:22.961Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:44:49.130Z"}
+[32minfo[39m: Reservied is form /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T07:44:55.473Z"}
+[32minfo[39m: Request /api/auth/update and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:44:55.474Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T07:45:15.865Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:45:15.865Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T07:45:15.954Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:46:17.944Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T07:46:19.710Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:46:19.711Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T07:46:19.821Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:48:03.013Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:48:07.918Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:48:29.356Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:49:11.099Z"}
+[32minfo[39m: Reservied is form /api/auth/logout and points POST {"service":"identify-service","timestamp":"2025-02-24T07:49:13.318Z"}
+[32minfo[39m: Request /api/auth/logout and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:49:13.319Z"}
+[31merror[39m: Internal Server Error: TypeError: res.cleancookie is not a function {"service":"identify-service","timestamp":"2025-02-24T07:49:13.328Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:49:41.166Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:49:55.891Z"}
+[32minfo[39m: Reservied is form /api/auth/logout and points POST {"service":"identify-service","timestamp":"2025-02-24T07:49:57.770Z"}
+[32minfo[39m: Request /api/auth/logout and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:49:57.770Z"}
+[31merror[39m: internal server error  {"service":"identify-service","timestamp":"2025-02-24T07:49:57.777Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:50:07.907Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T07:50:35.262Z"}
+[32minfo[39m: Reservied is form /api/auth/logout and points POST {"service":"identify-service","timestamp":"2025-02-24T07:50:39.390Z"}
+[32minfo[39m: Request /api/auth/logout and [object Object] {"service":"identify-service","timestamp":"2025-02-24T07:50:39.391Z"}
+[32minfo[39m: User logged out successfully {"service":"identify-service","timestamp":"2025-02-24T07:50:39.399Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T12:10:05.409Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:33:09.532Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:35:16.774Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:35:49.946Z"}
+[32minfo[39m: Reservied is form /auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:35:57.157Z"}
+[32minfo[39m: Request /auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T14:35:57.158Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:36:01.444Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T14:36:01.444Z"}
+[33mwarn[39m: Please provide all fields {"service":"identify-service","timestamp":"2025-02-24T14:36:01.449Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:36:03.330Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T14:36:03.331Z"}
+[33mwarn[39m: Please provide all fields {"service":"identify-service","timestamp":"2025-02-24T14:36:03.332Z"}
+[32minfo[39m: Reservied is form /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:36:08.290Z"}
+[32minfo[39m: Request /api/auth/login and [object Object] {"service":"identify-service","timestamp":"2025-02-24T14:36:08.290Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:36:08.405Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:44:50.449Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:46:38.725Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:46:38.726Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:46:38.824Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:47:28.062Z"}
+[32minfo[39m: Request body: {} {"service":"identify-service","timestamp":"2025-02-24T14:47:28.064Z"}
+[33mwarn[39m: Please provide all fields {"service":"identify-service","timestamp":"2025-02-24T14:47:28.067Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:47:46.087Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:47:46.088Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:47:46.167Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:50:15.070Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:50:17.485Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:50:17.486Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:50:17.586Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:50:26.652Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:50:29.240Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:50:29.241Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:50:29.341Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:50:30.682Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:50:30.682Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:50:30.755Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:50:44.794Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:50:46.110Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:50:46.111Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:50:46.221Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:50:49.390Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:50:50.658Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:50:54.169Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:51:04.461Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T14:51:11.365Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:52:09.913Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:52:09.914Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:52:10.020Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:52:41.073Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:52:41.074Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:52:41.151Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T14:52:42.240Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:52:42.241Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T14:52:42.309Z"}
+[32minfo[39m: Received is from /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T14:53:08.793Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","bio":"full-stack-developer","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:53:08.793Z"}
+[32minfo[39m: Received is from /update and points POST {"service":"identify-service","timestamp":"2025-02-24T14:54:04.036Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","bio":"full-stack-developer","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:54:04.037Z"}
+[32minfo[39m: Received is from /update and points POST {"service":"identify-service","timestamp":"2025-02-24T14:54:05.623Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","bio":"full-stack-developer","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:54:05.624Z"}
+[32minfo[39m: Received is from /api/auth/update and points POST {"service":"identify-service","timestamp":"2025-02-24T14:54:19.431Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","bio":"full-stack-developer","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T14:54:19.432Z"}

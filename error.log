@@ -1,0 +1,3 @@
+[31merror[39m: internal server errorTypeError: Cannot read properties of undefined (reading '0') {"service":"identify-service","timestamp":"2025-02-24T07:37:09.421Z"}
+[31merror[39m: Internal Server Error: TypeError: res.cleancookie is not a function {"service":"identify-service","timestamp":"2025-02-24T07:49:13.328Z"}
+[31merror[39m: internal server error  {"service":"identify-service","timestamp":"2025-02-24T07:49:57.777Z"}
