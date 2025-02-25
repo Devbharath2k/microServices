@@ -4,3 +4,8 @@
 [32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T16:29:35.280Z"}
 [32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","bio":"full-stack-developer","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T16:29:35.282Z"}
 [32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T16:29:35.542Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T16:42:03.088Z"}
+[32minfo[39m: Received is from /api/auth/login and points POST {"service":"identify-service","timestamp":"2025-02-24T16:42:41.870Z"}
+[32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T16:42:41.871Z"}
+[32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T16:42:41.966Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T16:44:19.011Z"}

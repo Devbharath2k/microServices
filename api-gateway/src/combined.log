@@ -209,3 +209,9 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Identity service proxied to http://localhost:4001","service":"api-gateway","timestamp":"2025-02-24T16:28:39.588Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-02-24T16:29:35.212Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Request body: {\"email\":\"devbharath21k@gmail.com\",\"password\":\"123\",\"bio\":\"full-stack-developer\",\"role\":\"admin\"}","service":"api-gateway","timestamp":"2025-02-24T16:29:35.214Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"API Gateway is running on port 4000","service":"api-gateway","timestamp":"2025-02-24T16:42:34.503Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Identity service proxied to http://localhost:4001","service":"api-gateway","timestamp":"2025-02-24T16:42:34.506Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Received POST request to /api/auth/login","service":"api-gateway","timestamp":"2025-02-24T16:42:41.852Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Request body: {\"email\":\"devbharath21k@gmail.com\",\"password\":\"123\",\"role\":\"admin\"}","service":"api-gateway","timestamp":"2025-02-24T16:42:41.853Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"API Gateway is running on port 4000","service":"api-gateway","timestamp":"2025-02-24T16:44:18.517Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Identity service proxied to http://localhost:4001","service":"api-gateway","timestamp":"2025-02-24T16:44:18.519Z"}
