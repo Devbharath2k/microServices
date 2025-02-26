@@ -9,3 +9,4 @@
 [32minfo[39m: Request body: {"email":"devbharath21k@gmail.com","password":"123","role":"admin"} {"service":"identify-service","timestamp":"2025-02-24T16:42:41.871Z"}
 [32minfo[39m: User logged in successfully {"service":"identify-service","timestamp":"2025-02-24T16:42:41.966Z"}
 [32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-24T16:44:19.011Z"}
+[32minfo[39m: Server is running on port 4001 {"service":"identify-service","timestamp":"2025-02-25T09:19:45.019Z"}
